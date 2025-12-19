@@ -64,8 +64,8 @@ creating art pieces based on gesture inputs (ie. a wave would be friendly while
 wild motion would be deemed chaotic).
 
 ## Controls
-Mouse move: create ripples
-Mouse click: create straight-line marks
-Sliders: adjust energy, calm or tense, and warm or cool
-S: save artwork as PNG
-R: reset the system
+Mouse move: create ripples  
+Mouse click: create straight-line marks  
+Sliders: adjust energy, calm or tense, and warm or cool  
+S: save artwork as PNG  
+R: reset the system  
